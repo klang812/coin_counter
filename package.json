@@ -1,5 +1,5 @@
 {
-  "name": "{PROJECT NAME}",
+  "name": "Coin-Counter",
   "version": "1.0.0",
   "description": "{PROJECT DESCRIPTION}",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "Tyler Sinks",
+  "author": "Kerry Lang, Levi Kohler",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
